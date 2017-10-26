@@ -1,0 +1,10 @@
+C:\Users\Brandon Lehr\Documents\xfinium\bin\Debug\netcoreapp2.0\xfinium.deps.json
+C:\Users\Brandon Lehr\Documents\xfinium\bin\Debug\netcoreapp2.0\xfinium.runtimeconfig.json
+C:\Users\Brandon Lehr\Documents\xfinium\bin\Debug\netcoreapp2.0\xfinium.runtimeconfig.dev.json
+C:\Users\Brandon Lehr\Documents\xfinium\bin\Debug\netcoreapp2.0\xfinium.dll
+C:\Users\Brandon Lehr\Documents\xfinium\bin\Debug\netcoreapp2.0\xfinium.pdb
+C:\Users\Brandon Lehr\Documents\xfinium\obj\Debug\netcoreapp2.0\xfinium.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Lehr\Documents\xfinium\obj\Debug\netcoreapp2.0\xfinium.AssemblyInfoInputs.cache
+C:\Users\Brandon Lehr\Documents\xfinium\obj\Debug\netcoreapp2.0\xfinium.AssemblyInfo.cs
+C:\Users\Brandon Lehr\Documents\xfinium\obj\Debug\netcoreapp2.0\xfinium.dll
+C:\Users\Brandon Lehr\Documents\xfinium\obj\Debug\netcoreapp2.0\xfinium.pdb

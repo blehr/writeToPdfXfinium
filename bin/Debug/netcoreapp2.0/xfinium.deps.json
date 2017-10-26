@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "9e5b91a3471e0de9f4609fe26c5ba92446219cfa"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "xfinium/1.0.0": {
+        "dependencies": {
+          "Xfinium.Pdf.NetCore": "6.9.0"
+        },
+        "runtime": {
+          "xfinium.dll": {}
+        }
+      },
+      "Xfinium.Pdf.NetCore/6.9.0": {
+        "runtime": {
+          "lib/netstandard1.6/Xfinium.Pdf.NetCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "xfinium/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Xfinium.Pdf.NetCore/6.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Sjjo7iN0dzUC7ktwtyeKglRcqHTZIif/iXBR34uokBI4nQV1tdyNX5RhWlWu8uPhDtwRqzrs46OJ3xTm/cHtTA==",
+      "path": "xfinium.pdf.netcore/6.9.0",
+      "hashPath": "xfinium.pdf.netcore.6.9.0.nupkg.sha512"
+    }
+  }
+}
